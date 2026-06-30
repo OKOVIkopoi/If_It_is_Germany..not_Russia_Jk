@@ -1,2 +1,2 @@
-# If_It_is_Germany..not_Russia_Jk
-A Petrograd 1917 game's mod that takes in an alternate world where Germany becomes the first Communist or 'Workers State' instead of IRL Russia. Although it'll be a jokery tyep of what if, realism and seriousness are not the priority. Warning: Joke, Larp, Laugh
+# If It is Germany.. Not Russia jk
+As the 'introduction' says, this is a mod of (Aucchen) Petrograd 1917 game. It's about an alternate world/universe where Revolution arrives in Germany instead of Russia during World War 1, time will be 1920 (Absolute starting point). This mod isn't seriously taking to consider what actually would happen. It supposes to be a joke mod. I make it a joke because I 'have enough with realism' and that stuff, basicly yeah. Literally just made the repository so there's no game at all-yet.
